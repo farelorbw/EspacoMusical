@@ -1,0 +1,56 @@
+@using Microsoft.AspNetCore.Http;
+@model Agenda
+
+@{
+    ViewData["Title"] = "CadastroAgenda";
+}
+    <form method="POST" asp-action="CadastroAgenda">
+
+        <p>
+            <label asp-for="Nome">Nome:</label>
+            <input asp-for="Nome">
+        </p>
+
+        <p>
+            <label asp-for="Telefone">Telefone:</label>
+            <input asp-for="Telefone">
+        </p>
+
+        <p>
+            <label asp-for="Data">Data:</label>
+            <input asp-for="Data" type="date">
+        </p>
+
+        <p>
+            <label asp-for="Instrumento">Instrumento:</label>
+            <select asp-for="Instrumento">
+            <option value="Cordas">Cordas</option>
+            <option value="Sopro">Sopro</option>
+            <option value="Percussão">Percussão</option>
+            <option value="Teclas">Teclas</option>
+            <option value="Canto">Canto</option>
+     </select>
+        </p>
+
+        <p>
+            <label asp-for="Necessidade">Necessidade:</label>
+            <textarea rows="10" cols="50" type="text" asp-for ="Necessidade"> </textarea> 
+        </p>
+
+        <p>
+            <label asp-for="Usuario">Usuário:</label>
+            <input asp-for="Usuario" value='@Context.Session.GetInt32("IdUsuario")'/>
+        </p>
+
+        <p>
+         <input type="submit" value="Enviar">
+        </p>
+
+    </form>
+
+<p>
+        @ViewBag.Mensagem
+
+</p>
+
+       

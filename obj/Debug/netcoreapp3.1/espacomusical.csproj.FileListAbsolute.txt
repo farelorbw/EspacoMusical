@@ -1,0 +1,161 @@
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csprojAssemblyReference.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfoInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CoreCompileInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.exe
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.deps.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.dev.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.input.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.output.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorCoreGenerate.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Agendamentos.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.Manifest.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.xml
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.genruntimeconfig.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CopyComplete
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacidade.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cordas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Outros.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Percussao.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sopro.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suportes.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Teclas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Capas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 3\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\InfoFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.exe
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.deps.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.dev.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csprojAssemblyReference.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfoInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CoreCompileInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.input.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.output.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorCoreGenerate.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Capas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cordas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Outros.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Percussao.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacidade.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sopro.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suportes.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Teclas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.Manifest.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.xml
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.genruntimeconfig.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CopyComplete
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\CadastroAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\EditarAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\ListaAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\CadastroFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\EditarFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\ListaFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.exe
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.deps.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.runtimeconfig.dev.json
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csprojAssemblyReference.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfoInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.AssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CoreCompileInputs.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.input.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.TagHelpers.output.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorCoreGenerate.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\CadastroAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\EditarAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\ListaAgenda.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\CadastroFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\EditarFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\FaleConosco\ListaFaleConosco.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Capas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cordas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Outros.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Percussao.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacidade.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Produtos.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sopro.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Suportes.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Home\Teclas.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Cadastro.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Editar.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Lista.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.RazorTargetAssemblyInfo.cs
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.Views.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.csproj.CopyComplete
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.Manifest.cache
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\staticwebassets\espacomusical.StaticWebAssets.xml
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.dll
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.pdb
+C:\Users\farel\Desktop\SENAC\Projeto Integrador MA\Projeto Integrador MA\atividade 4\espacomusical\obj\Debug\netcoreapp3.1\espacomusical.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+@model List<Agenda>
+
+@{
+    ViewData["Title"] = "ListaAgenda";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Data</th>
+            <th>Instrumento</th>
+            <th>Necessidade</th>
+            <th>Usuário</th>
+        </tr>
+    </thead>
+
+    @foreach (Agenda u in Model)
+    {
+        <tr>
+            <td>@u.Id</td>
+            <td>@u.Nome</td>
+            <td>@u.Telefone</td>
+            <td>@u.Instrumento</td>
+            <td>@u.Necessidade</td>
+            <td>@u.Usuario</td>
+            
+            <td>
+                <a href="/Agenda/EditarAgenda?Id=@u.Id">Alterar</a>
+                <a href="/Agenda/RemoverAgenda?Id=@u.Id">Excluir</a>
+            </td>
+
+        </tr>
+    }
+</table>

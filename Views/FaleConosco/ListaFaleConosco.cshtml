@@ -1,0 +1,37 @@
+@model List<FaleConosco>
+
+@{
+    ViewData["Title"] = "ListaFaleConosco";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Email</th>
+            <th>Data</th>
+            <th>Necessidade</th>
+
+        </tr>
+    </thead>
+
+    @foreach (FaleConosco u in Model)
+    {
+        <tr>
+            <td>@u.Id</td>
+            <td>@u.Nome</td>
+            <td>@u.Email</td>
+            <td>@u.Telefone</td>
+            <td>@u.Data</td>
+            <td>@u.Necessidade</td>
+
+
+            <td>
+                <a href="/FaleConosco/RemoverFaleConosco?Id=@u.Id">Excluir</a>
+            </td>
+
+        </tr>
+    }
+</table>
