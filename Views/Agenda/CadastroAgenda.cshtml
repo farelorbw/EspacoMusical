@@ -1,19 +1,24 @@
+
+<h1 class="shadow-lg p-3 mb-5 bg-white rounded">Agendar</h1>
 @using Microsoft.AspNetCore.Http;
 @model Agenda
 
 @{
     ViewData["Title"] = "CadastroAgenda";
 }
+
+
+
     <form method="POST" asp-action="CadastroAgenda">
 
         <p>
             <label asp-for="Nome">Nome:</label>
-            <input asp-for="Nome">
+            <input id="txtName" name="txtName" onblur ="checarName()" asp-for="Nome">
         </p>
 
         <p>
             <label asp-for="Telefone">Telefone:</label>
-            <input asp-for="Telefone">
+            <input id="txtFone" name="txtFone" onblur ="checarFone()" asp-for="Telefone">
         </p>
 
         <p>

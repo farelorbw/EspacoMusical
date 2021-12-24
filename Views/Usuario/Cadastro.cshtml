@@ -1,23 +1,27 @@
 @model Usuario
-
+@using Microsoft.AspNetCore.Http;
+<h1 class="shadow-lg p-3 mb-5 bg-white rounded">Cadastrar Usuário</h1>
 @{
     ViewData["Title"] = "Cadastro";
 }
+
+
+
     <form method="POST" asp-action="Cadastro">
 
         <p>
             <label asp-for="Nome">Nome:</label>
-            <input asp-for="Nome">
+            <input id="txtName" name="txtName" onblur ="checarName()" asp-for="Nome">
         </p>
 
         <p>
             <label asp-for="Login">Login:</label>
-            <input asp-for="Login">
+            <input id="txtUser" name="txtUser" onblur ="checarUser()" asp-for="Login">
         </p>
 
         <p>
             <label asp-for="Senha">Senha:</label>
-            <input asp-for="Senha">
+            <input id="txtPass" name="txtPass" onblur ="checarPass()" asp-for="Senha">
         </p>
 
         <p>

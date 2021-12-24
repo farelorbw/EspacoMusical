@@ -12,7 +12,7 @@ namespace espacomusical.Models
     public class FaleConoscoRepository
     {
         // ter as credenciais do meu banco de dados.
-        private const string DadosConexao = "DataBase=Espaco_Musical;Data Source=localhost;User=root";
+        private const string DadosConexao = "DataBase=espaco_musical;Data Source=localhost;User=root";
 
         // operações de manipulação de tabela.
         // (CRUD). Inerir, Listar, Alterar e Excluir.

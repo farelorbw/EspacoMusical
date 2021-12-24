@@ -1,21 +1,25 @@
 ﻿@using Microsoft.AspNetCore.Http;
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Rafael Wagner">
+    <meta name="keywords" content="musica, violao, teclado, aulas">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - espacomusical</title>
+    <title>@ViewData["Title"]</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    
 </head>
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+           <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3 ">
             <div class="container">
-                <img class="class" src="@Url.Content("~/images/violao1.png")" alt="Senac_tur" title="Senac_tur"
+                <img class="class" src="@Url.Content("~/images/violao1.png")" alt="Espaço Musical" title="Espaço Musical"
                     width="90" />
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,43 +31,46 @@
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home"
+                            <a class="nav-link text-dark " asp-area="" asp-controller="Home"
                                 asp-action="Produtos">Produtos</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="FaleConosco"
-                                asp-action="CadastroFaleConosco">FaleConosco</a>
-                        </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Usuario"
-                                asp-action="Cadastro">Cadastrar</a>
-                        </li>
+                        <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item dropdown">
+                        <a class="nav-link text-dark" data-toggle="dropdown" id="menuFaleConosco" href="#">Fale Conosco</a>
+                            <div class="dropdown-menu" aria-labelledby="menuFaleConosco">
+                            <a class="dropdown-item" href="/FaleConosco/CadastroFaleConosco">Cadastrar</a>
+                            </ul>
+                            </div>
+                            
 
-                        @if (Context.Session.GetInt32("IdUsuario") == null)
+
+ <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link text-dark" data-toggle="dropdown" id="menuLogin" href="#">Login</a>
+                            <div class="dropdown-menu" aria-labelledby="menuLogin">
+                            <a class="dropdown-item" href="/Usuario/Cadastro">Cadastrar</a>
+
+                             @if (Context.Session.GetInt32("IdUsuario") == null)
+                             {
+
+                                  <a class="dropdown-item" href="/Usuario/Login">Login</a>
+                             }
+
+                else
+
                         {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Usuario"
-                                asp-action="Login">Login</a>
-                            </li>
-                        }
 
-                        else
-
-                        {
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Agenda"
-                                asp-action="CadastroAgenda">Cadastrar Agendamento</a>
+                                                      
+                            <li class="nav-item dropdown">
+                                <a class="nav-link text-dark" data-toggle="dropdown" id="menuAgenda" href="#">Agenda</a>
+                                <div class="dropdown-menu" aria-labelledby="menuAgenda">
+                            <a class="dropdown-item" href="/Agenda/CadastroAgenda">Agendar</a>
+                            <a class="dropdown-item" href="/Agenda/ListaAgenda">Listagem</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Usuario"
-                                asp-action="Lista">Listagem</a>
-                            </li>
-
-                            <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Agenda"
-                                asp-action="ListaAgenda">Listar Agendamentos</a>
-                            </li>
+                         
                             <li class="nav-item">
                                 <a class="nav-link text-dark" asp-area="" asp-controller="FaleConosco"
                                 asp-action="ListaFaleConosco">Listar Fale Conosco</a>
@@ -73,8 +80,8 @@
                                 asp-action="Logout">Sair</a>
                             </li>
                         }
-
-
+                            </div>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -89,12 +96,14 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2021 - espacomusical - <a asp-area="" asp-controller="Home" asp-action="Privacidade">Privacidade</a>
+            &copy; 2021 - Espaço Musical - <a asp-area="" asp-controller="Home" asp-action="Privacidade">Privacidade</a>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
+        
+    
     @RenderSection("Scripts", required: false)
 </body>
 

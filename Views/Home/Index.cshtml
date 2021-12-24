@@ -1,13 +1,57 @@
-﻿@{
+﻿
+
+@{
     ViewData["Title"] = "Espaço Musical";
+
 }
 
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+
 <div class="text-center">
-   <div class="text-center">
-    <img class="class" src="@Url.Content("~/images/espacomusical.png")" alt="texto" title="texto" width="600"/>
-   </div>
-    <p><img src="/images/capa.png" width=500></p>
-    <p>Aqui você encontra tudo o que precisa para o seu Show!</p>
+    <div class="text-center">
+        <img class="class" src="@Url.Content("~/images/espacomusical.png")" alt="Bem-vindo ao Espaço Musical!"
+            title="Bem-vindo ao Espaço Musical!" width="600" />
 
+        <p><img src="/images/capa.png" width=500></p>
+    </div>
 
+     <h2><img class="class" src="@Url.Content("~/images/violao1.png")" alt="Espaço Musical" title="Espaço Musical"
+            width="90" />Tudo para o seu show!<img class="class" src="@Url.Content("~/images/violao1.png")"
+            alt="Espaço Musical" title="Espaço Musical" width="90" /></h2>
+
+ <div>
+    <div class="slideshow-container">
+
+     
+        <div class="mySlides">
+            <div class="numbertext"></div>
+            <img class="class" src=/images/camiseta.png style="width:20%" alt="...">
+            @* <div class="text">Imagem 1</div> *@
+        </div>
+
+        <div class="mySlides">
+            <div class="numbertext"></div>
+            <img class="class" src=images/violao.png style="width:20%" alt="...">
+            @* <div class="text">Imagem 2</div> *@
+        </div>
+
+        <div class="mySlides">
+            <div class="numbertext"></div>
+            <img class="class" src=images/cabo.png style="width: 20%" alt="...">
+            @* <div class="text">Imagem 3</div> *@
+        </div>
+
+       
+        @* <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a> *@
+    </div>
+    
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+  
+</div>
 </div>
